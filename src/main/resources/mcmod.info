@@ -1,0 +1,9 @@
+[{
+  "modid": "juliansmod",
+  "name": "Julian's Mod",
+  "description": "Julian's mod.",
+  "version": "1.0.0",
+  "mcversion": "1.12.2",
+  "url": "https://julians.website",
+  "authorList": ["Julian Bath"]
+}]
