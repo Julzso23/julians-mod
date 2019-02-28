@@ -1,2 +1,5 @@
+// Items
 item.flour.name=Flour
-block.grindstone.name=Grindstone
+
+// Blocks
+tile.grindstone_block.name=Grindstone
