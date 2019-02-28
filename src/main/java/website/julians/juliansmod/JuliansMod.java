@@ -23,17 +23,17 @@ public class JuliansMod
     public static CommonProxy proxy;
 
     @Mod.EventHandler
-    public static void PreInit(FMLPreInitializationEvent event)
+    public static void preInit(FMLPreInitializationEvent event)
     {
     }
 
     @Mod.EventHandler
-    public static void Init(FMLInitializationEvent event)
+    public static void init(FMLInitializationEvent event)
     {
     }
 
     @Mod.EventHandler
-    public static void PostInit(FMLPostInitializationEvent event)
+    public static void postInit(FMLPostInitializationEvent event)
     {
     }
 }
