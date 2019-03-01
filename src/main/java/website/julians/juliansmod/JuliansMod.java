@@ -5,6 +5,7 @@ import net.minecraftforge.fml.common.SidedProxy;
 import net.minecraftforge.fml.common.event.FMLInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPostInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
+import website.julians.juliansmod.init.ModRecipes;
 import website.julians.juliansmod.proxy.CommonProxy;
 import website.julians.juliansmod.util.Reference;
 
@@ -30,6 +31,7 @@ public class JuliansMod
     @Mod.EventHandler
     public static void init(FMLInitializationEvent event)
     {
+        ModRecipes.init();
     }
 
     @Mod.EventHandler
