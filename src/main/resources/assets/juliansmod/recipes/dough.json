@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:water_bucket"
+    },
+    {
+      "item": "juliansmod:flour"
+    },
+    {
+      "item": "juliansmod:flour"
+    },
+    {
+      "item": "juliansmod:flour"
+    }
+  ],
+  "result": {
+    "item": "juliansmod:dough",
+    "count": 1
+  }
+}

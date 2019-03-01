@@ -10,4 +10,5 @@ public class ModItems
 {
     public static final List<Item> ITEMS = new ArrayList<Item>();
     public static final Item FLOUR = new ItemBase("flour");
+    public static final Item DOUGH = new ItemBase("dough");
 }

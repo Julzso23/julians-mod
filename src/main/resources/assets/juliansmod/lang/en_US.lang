@@ -1,5 +1,6 @@
 // Items
 item.flour.name=Flour
+item.dough.name=Dough
 
 // Blocks
 tile.grindstone_block.name=Grindstone
